@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@pinia/nuxt": "^0.4.1",
+    "nuxt-fontawesome": "^0.4.0",
+    "pinia": "^2.0.21",
+    "vuex": "^4.0.2"
+  }
+}
